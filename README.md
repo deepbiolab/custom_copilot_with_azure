@@ -186,7 +186,7 @@ In this project, you will:
 
 - In **Prompt Flow**, click **Evaluate**, choose **Automated evaluation**, and then and use your dataset.
 
-  ![image-20241121142553882](../../../../Projects/deepbiolab.github.io/assets/img/image-20241121142553882.png)
+  ![image-20241121142553882](assets/image-20241121142553882.png)
 
   ![image-20241121142724140](assets/image-20241121142724140.png)
 
